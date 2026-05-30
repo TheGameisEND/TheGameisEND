@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Osadchy Kirill]
+# 👋 Hello, I'm Osadchy Kirill
 
 **Aspiring ML Engineer focused on classical ML and Deep Learning.**  
 Currently completed the foundational month (Python, Pandas, SQL, Git, Docker). Now diving into **classical ML algorithms, statistics, and PyTorch**.  
