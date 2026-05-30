@@ -103,8 +103,3 @@ I'm looking for an internship or a junior ML/Data Science position where I can g
 
 ---
 
-## 📈 GitHub stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)
